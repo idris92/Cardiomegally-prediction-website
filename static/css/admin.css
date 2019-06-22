@@ -1,0 +1,28 @@
+#header{
+    width: auto;
+    height: 50px;
+    padding: 10px 40px;
+    background:#0cb8b6;
+    color: #fff;
+}
+
+#branding h1{
+    color: #fff;
+}
+a:link
+a:visited{
+    color: #0cb8b6;
+}
+
+div.breadcrumbs{
+    background: #3c3c3c;
+}
+.module h2, .module caption, .inline-group h2{
+    background:#0cb8b6;
+}
+.button, input[type=submit], input[type=button], .submit-row input, a.button {
+    background:#0cb8b6;
+}
+.button.default:active, input[type=submit].default:active, .button.default:focus, input[type=submit].default:focus, .button.default:hover, input[type=submit].default:hover {
+    background:#0cb8b6;;
+}
